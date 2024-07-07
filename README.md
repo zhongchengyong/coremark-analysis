@@ -4,7 +4,8 @@ The compile target will run on the xuantie-C906 core.
 
 # Usage
 * sh build.sh to build coremark with xuantie-gcc
-* sh clang-build.sh to build coremark with clang, which has port the riscv64-clang directory
+* sh build-clang.sh to build coremark with clang
+* sh build-gcc.sh to build coremark with open source gcc
 
 
 
